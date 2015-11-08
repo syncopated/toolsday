@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>Toolsday</title>
+	<atom:link href="http://toolsday.io/rss.xml" rel="self" type="application/rss+xml" />
+	<link>http://toolsday.io</link>
+	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
+	<lastBuildDate>Sat Nov 07 2015 21:08:17 GMT-0600 (CST)</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://harpjs.com</generator>
+	<copyright>Copyright © Una Kravets and Chris Dhanaraj 2015</copyright>
+	<managingEditor>una.kravets@gmail.com</managingEditor>
+	<webMaster>una.kravets@gmail.com</webMaster>
+	<category>Web, Development</category>
+	<ttl>1440</ttl>
+	<image>
+		<url>http://toolsday.io/img/logo-1400-1400.png</url>
+		<title>Toolsday</title>
+		<link>http://toolsday.io</link>
+		<width>1400</width>
+		<height>1400</height>
+	</image>
+	<itunes:subtitle>Hosted by Una Kravets and Chris Dhanaraj</itunes:subtitle>
+	<itunes:summary>20 minutes of tech tool talk on Tuesdays at 2.</itunes:summary>
+	<itunes:keywords>toolsday, technolody, tech tools, frontend, web, development, web performance</itunes:keywords>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="Technology" />
+	<itunes:author>Toolsday</itunes:author>
+	<itunes:owner>
+		<itunes:name>Toolsday</itunes:name>
+		<itunes:email>una.kravets@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://toolsday.io/img/logo-1400-1400.png" />
+
+	
+	
+	
+	
+	
+	
+	<item>
+		<title>Task Runners</title>
+		<link>http://toolsday.io/episodes/task-runners.html</link>
+		<pubDate>Tue Oct 20 2015 00:00:00 GMT-0500 (CDT)</pubDate>
+		<dc:creator><![CDATA[Rebecca Murphey]]></dc:creator>
+		<guid isPermaLink="true">http://toolsday.io/episodes/task-runners.html</guid>
+		<description><![CDATA[Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.]]></description>
+		<itunes:summary>Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.</itunes:summary>
+
+		<enclosure url="http://toolsday.ioaudio/ep01-task-runners.mp3" length="36219719" type="audio/mpeg" />
+
+		<itunes:duration>0:25:09</itunes:duration>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+</channel>
+</rss>
