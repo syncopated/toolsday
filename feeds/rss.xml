@@ -16,7 +16,7 @@
 	<atom:link href="http://toolsday.io/feeds/rss.xml" rel="self" type="application/rss+xml" />
 	<link>http://toolsday.io</link>
 	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
-	<lastBuildDate>Sun Nov 08 2015 17:18:41 GMT-0600 (CST)</lastBuildDate>
+	<lastBuildDate>Sun Nov 08 2015 17:19:39 GMT-0600 (CST)</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -59,7 +59,7 @@
 		<description><![CDATA[College? Where we&#39;re going, we don&#39;t need college (or do we?).]]></description>
 		<itunes:summary>College? Where we&#39;re going, we don&#39;t need college (or do we?).</itunes:summary>
 
-		<enclosure url="http://toolsday.ioaudio/ep03-learning-tools.mp3" length="46118307" type="audio/mpeg" />
+		<enclosure url="http://toolsday.io/audio/ep03-learning-tools.mp3" length="46118307" type="audio/mpeg" />
 
 		<itunes:duration>0:27:28</itunes:duration>
 		<itunes:subtitle>undefined</itunes:subtitle>
@@ -78,7 +78,7 @@
 		<description><![CDATA[We&#39;ll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.]]></description>
 		<itunes:summary>We&#39;ll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.</itunes:summary>
 
-		<enclosure url="http://toolsday.ioaudio/ep02-module-loaders.mp3" length="39562297" type="audio/mpeg" />
+		<enclosure url="http://toolsday.io/audio/ep02-module-loaders.mp3" length="39562297" type="audio/mpeg" />
 
 		<itunes:duration>0:27:28</itunes:duration>
 		<itunes:subtitle>undefined</itunes:subtitle>
@@ -97,7 +97,7 @@
 		<description><![CDATA[Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.]]></description>
 		<itunes:summary>Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.</itunes:summary>
 
-		<enclosure url="http://toolsday.ioaudio/ep01-task-runners.mp3" length="36219719" type="audio/mpeg" />
+		<enclosure url="http://toolsday.io/audio/ep01-task-runners.mp3" length="36219719" type="audio/mpeg" />
 
 		<itunes:duration>0:25:09</itunes:duration>
 		<itunes:subtitle>undefined</itunes:subtitle>
